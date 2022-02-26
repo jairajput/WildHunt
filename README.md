@@ -1,15 +1,10 @@
-# Basic Sample Hardhat Project
+#WILD HUNT
+WildHunt is an NFT-Marketplace when a artist can upload his art as a digital asset which will be listed; and from there any one who is intrested in purchasing, can place a bid.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
-
-Try running some of the following tasks:
-
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
+<h3>Tech Stack</h3
+  Languages and frameworks:
+  Html, CSS, JS, Typescript, solidity.
+ 
+  
+  Blockchains used:
+  Polygon MATIC, Ethereum.
