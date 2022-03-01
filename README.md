@@ -25,3 +25,17 @@ The marketplace owner will be able to set a listing fee. This fee will be taken 
 ## Prerequisites: 
 - Metamask extention for your browser.
 - Nodejs (>16.14.0) installed locally.
+
+
+## Snap - Shots
+
+- Landing Page:
+![WhatsApp Image 2022-02-20 at 17 01 52](https://user-images.githubusercontent.com/53358773/156179823-58d99573-da8d-4e4b-99ea-329e25845772.jpeg)
+
+- NFT Creation:
+![WhatsApp Image 2022-02-20 at 17 13 00](https://user-images.githubusercontent.com/53358773/156179833-5958e6ae-5fe7-43a6-ae3b-1b3c5a731c4a.jpeg)
+
+- Catalog:
+![WhatsApp Image 2022-02-20 at 17 15 06](https://user-images.githubusercontent.com/53358773/156179851-bda71f55-a28e-4eb3-9cf2-dc7cea50f657.jpeg)
+
+
