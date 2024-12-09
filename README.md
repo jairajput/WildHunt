@@ -1,25 +1,11 @@
-# Basic Sample Hardhat Project
+WILD HUNT
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, a sample script that deploys that contract, and an example of a task implementation, which simply lists the available accounts.
+### Synopsis:
+<strong>Wild hunt</strong> is a NFT Marketplace where a digital artist can create NFT of his art and list it for a price. From there anyone whos intrested in buying can purchase it; by paying for the highest bid.
+NFT: Non-fungible Tokens-are the tokenised form of an art. It can be anything from art,, collectables, domain names, music, photography, sports, trading card, utility, to virtual world. <i>Terra Nullius</i> is the first NFT on the Ethereum blockchain with a mint date of August 7, 2015
+Full stack NFT Marketplace on ethereum with polygon, Nextjs, Tailwind CSS,
+Hardhat for the solidity development enviroment ethers for the client library to interact with the chain. When a user puts an NFT for sale, the ownership of the item will be transferred from the creator to the marketplace contract.
 
-Try running some of the following tasks:
+When a user purchases an NFT, the purchase price will be transferred from the buyer to the seller and the item will be transferred from the marketplace to the buyer.
 
-```shell
-npx hardhat accounts
-npx hardhat compile
-npx hardhat clean
-npx hardhat test
-npx hardhat node
-node scripts/sample-script.js
-npx hardhat help
-```
-
-
-
-
-
-Select Add a network manually.
-
-Enter your Hardhat Network RPC URL, http://127.0.0.1:8545/ (or http://localhost:8545).
-
-Enter your Hardhat Network chain ID, 1337 (or 0x539 in hexadecimal format).
+The marketplace owner will be able to set a listing fee. This fee will be taken from the seller and transferred to the contract owner upon completion of any sale, enabling the owner of the marketplace to earn recurring revenue from any sale transacted in the marketplace.
